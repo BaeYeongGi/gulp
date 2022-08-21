@@ -1,6 +1,10 @@
 {
   "name": "supergulp",
+<<<<<<< HEAD
   "version": "1.0.0",
+=======
+  "version": "1.0.1",
+>>>>>>> parent of 1b043cc... git version test2
   "description": "Learn Gulp by building an awesome development environment",
   "main": "index.js",
   "scripts": {
